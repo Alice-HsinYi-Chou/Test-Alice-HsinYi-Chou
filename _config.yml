@@ -17,6 +17,8 @@ menu:
   Publications: /#Publications
   About: /
   Blog: https://phower.me
+  Gallery: /
+  
 
 # flink picture will load if avator link calls on error
 loading_bg:
