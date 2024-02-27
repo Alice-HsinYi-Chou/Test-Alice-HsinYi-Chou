@@ -1,11 +1,14 @@
-favicon: /img/favicon.png
+favicon: /img/photo_alice.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author: 'Alice'
+author_bio: 'A human being with 24y of life experiences and wisdom that she barely recalls half of them. The glass is half full...right?
+Try to treasure life with good intentions, on-point skills and wholesome people. Perhaps by the time I get knocked out by it, dignity and contentment are on my side. (Hopefully, some cherished memories and laughters accompany you) 
+Before that, I’m always a work in progress.
+Guidance and support are very welcomed (tbh, NEEDED). '
 
-since: 2020
+since: 2024
 
 # Top Menu 顶部菜单
 # #title 为页内跳转，单页模式
@@ -25,15 +28,11 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: /
+  fas fa-envelope: / #E-mail
   fab fa-facebook-square: /
   fab fa-github: /
   fab fa-stack-overflow: /
   fab fa-linkedin: /
-  fab fa-weibo: /
-  fab fa-weixin: /
-  fab fa-qq: /
-  fas fa-envelope: / #E-mail
   fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
